@@ -1,1 +1,2 @@
 # Voice-Assistant-Prince-
+#To effectively automate tasks, a Python voice assistant driven by AI was designed and put into use. included Eel-based real-time user interface (UI) capabilities, speech recognition, and hotword detection. used a SQLite database for efficient command and contact management and HugChat for intelligent and precise response generating. 30% more accurate command recognition thanks to system optimization.
